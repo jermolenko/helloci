@@ -16,7 +16,7 @@ public class AppTest {
 		assertTrue(true);
 	}
 
-	/*@Ignore*/
+	@Ignore
 	@Test
 	public void testShouldBeFailed() {
 		assertTrue(false);
